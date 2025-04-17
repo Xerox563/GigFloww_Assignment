@@ -1,40 +1,41 @@
-# 🛒 Client Cart & Checkout Flow
+# 🚀 GigFloww Assignment
 
-A fully functional and responsive cart and checkout UI built using **React**, **Vite**, and **Tailwind CSS**. This project demonstrates modular frontend architecture with reusable components and supports core shopping cart functionalities like quantity updates, item removal, coupon validation, and order summary.
+A fully functional and responsive Page built with **React**, **Vite**, and **Tailwind CSS**, now featuring a modern **navigation bar with dropdown** and a **testimonial slider** for enhanced user experience.
 
 ---
 
-## 🔧 Features
+## ✨ Features
 
-- ✅ **Cart Page**:
+### 🧭 Navigation Bar with Dropdown
 
-  - Update item quantity
-  - Remove items from the cart
+- ✅ Logo on the left
+- ✅ Menu items aligned right
+- ✅ Dropdown under “Services” or “Gigs”
+- ✅ Responsive hamburger toggle for mobile
 
-- ✅ **Checkout Page**:
+---
 
-  - Address input form
-  - Order summary section
-  - Coupon code input with frontend validation
+### 💬 Testimonial Slider
 
-- ✅ **Reusable Components**:
-  - `CartItem` – handles individual cart item display and logic
-  - `CheckoutForm` – manages address inputs
-  - `SummaryCard` – displays order totals and applied discounts
+- ✅ 3 testimonial cards
+- ✅ Auto-slide and arrow navigation
+- ✅ Fully responsive layout
+- ✅ Built using [Swiper.js](https://swiperjs.com) (or any modern library)
 
 ---
 
 ## 🧰 Tech Stack
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- ⚛️ [React](https://reactjs.org/)
+- ⚡ [Vite](https://vitejs.dev/)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- 📦 [Swiper.js](https://swiperjs.com/) (for the slider)
 
 ---
 
 ## 📱 Responsiveness
 
-All components are **fully mobile responsive**, styled using Tailwind CSS utility classes.
+Every component is designed mobile-first using Tailwind CSS for seamless responsiveness across all devices.
 
 ---
 
@@ -42,12 +43,7 @@ All components are **fully mobile responsive**, styled using Tailwind CSS utilit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/cart-checkout-flow.git
-   cd cart-checkout-flow
+   git clone https://github.com/Xerox563/GigFloww_Assignment.git
+   cd gigfloww-ui
    npm install
    ```
-
----
-
-"# GigFloww_Assignment" 
-"# GigFloww_Assignment" 
